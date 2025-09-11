@@ -1,1 +1,3 @@
 spectrum.s3.amazonaws.com
+info.cspserver.net
+unleash.codeium.com
