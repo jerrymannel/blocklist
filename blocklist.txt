@@ -1,0 +1,1 @@
+0.0.0.0 spectrum.s3.amazonaws.com
