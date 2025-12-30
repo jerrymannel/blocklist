@@ -21,4 +21,4 @@ go.character.ai
 docs.character.ai
 research.character.ai
 video.character.ai
-www.character.a
+www.character.ai

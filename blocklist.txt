@@ -21,4 +21,4 @@
 0.0.0.0 docs.character.ai
 0.0.0.0 research.character.ai
 0.0.0.0 video.character.ai
-0.0.0.0 www.character.a
+0.0.0.0 www.character.ai
