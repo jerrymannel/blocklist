@@ -23,3 +23,5 @@ research.character.ai
 video.character.ai
 www.character.ai
 a.poki-cdn.com
+poki.com
+img.poki-cdn.com
