@@ -21,7 +21,7 @@ go.character.ai
 docs.character.ai
 research.character.ai
 video.character.ai
-www.character.ai
+character.ai
 a.poki-cdn.com
 poki.com
 img.poki-cdn.com

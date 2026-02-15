@@ -21,7 +21,7 @@
 0.0.0.0 docs.character.ai
 0.0.0.0 research.character.ai
 0.0.0.0 video.character.ai
-0.0.0.0 www.character.ai
+0.0.0.0 character.ai
 0.0.0.0 a.poki-cdn.com
 0.0.0.0 poki.com
 0.0.0.0 img.poki-cdn.com
